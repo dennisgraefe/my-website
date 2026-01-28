@@ -1,0 +1,15 @@
+site_name: Dennis Gräfe
+site_description: Software Developer
+site_author: Dennis Gräfe
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+nav:
+  - Home: index.md

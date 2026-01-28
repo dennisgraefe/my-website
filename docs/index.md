@@ -1,6 +1,6 @@
 # Welcome to My Website
 
-My name is Dennis Gräfe, and I am a Software Developer based in Erfurt. I am driven by a desire to explore the full spectrum of software engineering, a journey that has led me to master a wide array of technologies ranging from low-level systems to modern web applications.
+My name is **Dennis Gräfe**, and I am a **Software Developer** based in **Erfurt**. I am driven by a desire to explore the full spectrum of software engineering, a journey that has led me to **leverage a broad spectrum of technologies to build efficient, scalable solutions**, ranging from low-level systems to modern web applications.
 
 <img src="assets/pic.JPEG" alt="Dennis Gräfe" width="400">
 

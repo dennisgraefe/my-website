@@ -10,8 +10,6 @@ My interest in technology and computer science began early, leading me to comple
 
 My academic path started in **Computer Science**, but seeking a deeper connection to practical applications, I transitioned to **Electrical Engineering and Information Technology**. This shift allowed me to tackle real-world technical challenges head-on. Ultimately, this experience reaffirmed my core ambition: to build high-quality software as a professional developer.
 
-Years of tackling development projects have sharpened my technical expertise and honed my ability to deliver under pressure. I pride myself on being a quick study and a disciplined, reliable developer who brings a proactive approach to every stage of the software lifecycle.
-
 ---
 
 ## ⚙️ Key Software Projects

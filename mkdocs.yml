@@ -1,6 +1,7 @@
 site_name: Dennis Gräfe
 site_description: Software Developer
 site_author: Dennis Gräfe
+site_url: https://dennisgraefe.github.io/my-website/
 
 theme:
   name: material

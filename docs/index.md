@@ -19,6 +19,7 @@ My academic path started in **Computer Science**, but seeking a deeper connectio
 - **RESTful Backend Systems:** Engineered robust backends using **Laravel**, focusing on high-performance data flow and structured RESTful API design.
 - **Identity & Security:** Implemented secure **OAuth2** authentication flows, integrating third-party providers such as Apple and Google.
 - **Internal Operations:** Developed specialized administrative interfaces using **Laravel Nova** and managed full-cycle server maintenance for production environments.
+- **Automated Deployment:** Streamlined development workflows by implementing GitLab CI/CD pipelines, ensuring seamless deployment to production environments.
 
 ### 📊 Network Visualization & Analytical Tools
 
